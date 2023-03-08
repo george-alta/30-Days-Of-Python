@@ -19,3 +19,9 @@ print(type([1, 2, 3]))           # List
 print(type({'name':'Asabeneh'})) # Dictionary
 print(type({9.8, 3.14, 2.7}))    # Set
 print(type((9.8, 3.14, 2.7)))    # Tuple
+
+i = 1
+print(1+6+5+3)
+while i <= 10:
+    print(i)
+    i = i +1
